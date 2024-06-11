@@ -1,0 +1,6 @@
+<?php
+
+define("MYCONSTANT","VALUE");
+
+
+?>
