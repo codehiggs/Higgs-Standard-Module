@@ -1,2 +1,2 @@
-# Higgs-Standar-Module
-Modulo estandar para Higss7
+# Higgs-Standard-Module
+Modulo estandard para Higss7
