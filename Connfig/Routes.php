@@ -1,8 +1,5 @@
 <?php
-
-
 use Config\Services;
-
 $twoLevelsUpDir = dirname(dirname(__FILE__));
 $dirName = basename($twoLevelsUpDir);
 $module="Base";
